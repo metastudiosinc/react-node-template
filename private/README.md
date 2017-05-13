@@ -1,1 +1,1 @@
-# react-node-template
+# private dir

@@ -1,1 +1,1 @@
-# react-node-template
+# dispatcher dir

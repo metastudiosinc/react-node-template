@@ -1,1 +1,1 @@
-# react-node-template
+# constants dir

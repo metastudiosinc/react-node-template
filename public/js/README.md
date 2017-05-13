@@ -1,1 +1,1 @@
-# react-node-template
+# js dir

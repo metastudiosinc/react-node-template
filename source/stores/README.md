@@ -1,1 +1,1 @@
-# react-node-template
+# stores dir
