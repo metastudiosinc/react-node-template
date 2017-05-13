@@ -25,7 +25,11 @@
   "homepage": "https://github.com/themetastudiosteam/react-node-template#readme",
   "dependencies": {
     "ejs": "^2.5.6",
+    "events": "^1.1.1",
     "express": "^4.15.2",
+    "flux": "^3.1.2",
+    "keymirror": "^0.1.1",
+    "object-assign": "^4.1.1",
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
