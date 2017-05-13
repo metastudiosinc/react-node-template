@@ -11,6 +11,8 @@ const NAME = ({}) => {
   );
 }
 
+
+//https://facebook.github.io/react/docs/typechecking-with-proptypes.html
 <NAME>.propTypes = {
   value: PropTypes.string
 };
