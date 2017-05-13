@@ -1,6 +1,7 @@
 //REPLACE all instance of <NAME> with a real value
 
 import React from "react"
+import PropTypes from 'prop-types';
 
 
 class <NAME> extends React.Component {
@@ -43,10 +44,14 @@ class <NAME> extends React.Component {
 //
 // }
 // componentWillUnmount() {
-// 
+//
 // }
 
 
 }
+
+<NAME>.propTypes = {
+  value: PropTypes.string
+};
 
 export default <NAME>;
