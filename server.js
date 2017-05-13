@@ -4,7 +4,7 @@ var React = require("react")
 var ReactDOMServer = require('react-dom/server')
 //local files
 import CoreContent from './source/components/CoreContent.react'
-const reactHtml = ReactDOMServer.renderToString(<CoreContent />);
+const reactHtml = ReactDOMServer.renderToString(<CoreContent text="hello server"/>);
 
 
 //start of server config

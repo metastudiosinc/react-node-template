@@ -37,7 +37,7 @@ class <NAME> extends React.Component {
 
 
   render() {
-    return < onClick={this.handleClick}>Some Content</div>;
+    return <div onClick={this.handleClick}>Some Content</div>;
   }
 
 // componentDidUpdate(){
