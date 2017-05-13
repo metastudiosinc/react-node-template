@@ -1,0 +1,26 @@
+{
+  "name": "react-node-template",
+  "version": "0.0.1",
+  "description": "base server template for reuse, es6, react, node, express",
+  "main": "wrapper.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themetastudiosteam/react-node-template.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "express",
+    "es6",
+    "template"
+  ],
+  "author": "Wes Etheredge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/themetastudiosteam/react-node-template/issues"
+  },
+  "homepage": "https://github.com/themetastudiosteam/react-node-template#readme"
+}
